@@ -1,0 +1,28 @@
+# Competition videos and labels (not redistributed)
+Q4data/
+data/
+
+# Notebook run folder, caches and third-party weights
+nbrun/
+cache/
+wcache/
+models/
+*.pt
+*.pth
+*.pth.tar
+*.bin
+*.onnx
+*.safetensors
+
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
